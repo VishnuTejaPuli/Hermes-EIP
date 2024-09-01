@@ -1,0 +1,10 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+}
+
+.title{
+    background-color: rgb(2, 18, 18);
+    background: fixed;
+    color: rgb(54, 98, 168);
+}

@@ -1,0 +1,12 @@
+.map-container {
+  align-content: flex-end;
+    height: 40%;
+    width: 40%;
+  }
+  
+  #map {
+    align-content: flex-end;
+    height: 150px; /* Set the desired height */
+    width: 40%;
+  }
+  
